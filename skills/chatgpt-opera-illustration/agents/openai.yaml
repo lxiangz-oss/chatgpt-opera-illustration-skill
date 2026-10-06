@@ -1,0 +1,4 @@
+interface:
+  display_name: "ChatGPT 戏曲插画"
+  short_description: "用 ChatGPT Images 生成色块鲜明、水袖流动、纹理克制的戏曲与江南插图"
+  default_prompt: "Use $chatgpt-opera-illustration to create an original Chinese opera editorial illustration using the bundled style references."

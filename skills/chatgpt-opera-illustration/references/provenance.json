@@ -1,0 +1,53 @@
+{
+  "examples": [
+    {
+      "file": "images/01-opera-pair.png",
+      "source_file": "xiju_art_direction/01_editorial_opera_feet_fixed.png",
+      "kind": "AI-generated collaboratively art-directed illustration",
+      "sha256": "a2518cec24ff250b3e5de6896bcb1ad91b064d6705b0d1901b5f2dbd763bb3f0"
+    },
+    {
+      "file": "images/02-stage.png",
+      "source_file": "xiju_art_direction/02_enter_the_stage.png",
+      "kind": "AI-generated collaboratively art-directed illustration",
+      "sha256": "7cad1adb0ea0aded51aad36e3aac4c0ed035e618613daaaf0e492ffb758d317d"
+    },
+    {
+      "file": "images/03-taihu.png",
+      "source_file": "xiju_story_pages_v13/assets/page_05_taihu.png",
+      "kind": "AI-generated collaboratively art-directed illustration",
+      "sha256": "d6e32270000400e02ffdac7a1bc4ffbb845687c8e6748c9e0f4537b04239ceac"
+    },
+    {
+      "file": "images/04-history.png",
+      "source_file": "xiju_story_pages_v13/assets/page_06_history.png",
+      "kind": "AI-generated collaboratively art-directed illustration",
+      "sha256": "2b24721394e45f47df6673f519b3f3273175c686cb377144cd7e25f466712382"
+    },
+    {
+      "file": "images/05-instrument.png",
+      "source_file": "xiju_story_pages_v13/remaster/erhu.png",
+      "kind": "AI-generated collaboratively art-directed illustration",
+      "sha256": "1dc24a7cf0dd3245bc5b184a6a9e66de72b4310ccf392a17cf8d059be99c498a"
+    },
+    {
+      "file": "images/06-storybook.png",
+      "source_file": "xiju_story_pages_v13/assets/page_09_works.png",
+      "kind": "AI-generated collaboratively art-directed illustration",
+      "sha256": "d7588c0b320a962412c1ebb4b88f4a2ef1b0fab8f6a37b779d08008794004370"
+    },
+    {
+      "file": "images/07-opera-roles.png",
+      "source_file": "xiju_story_pages_v13/remaster/feature_roles_side_v2.png",
+      "kind": "AI-generated collaboratively art-directed illustration",
+      "sha256": "72f7211783d014c5961913b4a6fbccf11a8dc033a24da565e260780f7dc891ac"
+    },
+    {
+      "file": "images/08-waterside.png",
+      "source_file": "xiju_story_pages_v13/remaster/history_waterside.png",
+      "kind": "AI-generated collaboratively art-directed illustration",
+      "sha256": "a3409578dee4ed7651bd345112215e0ee6110fd4008b1cab2b595c13c6f1de2b"
+    }
+  ],
+  "original_third_party_reference": "Described in index.md; original screenshot file unavailable, not included."
+}
